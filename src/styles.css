@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 1000vh;
+}
+
+ol {
+  width: 700px;
+  text-align: left;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+ol > li {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 40px 0;
+}
+
+ol > li > h3 {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+ul > li {
+  line-height: 26px;
+}
